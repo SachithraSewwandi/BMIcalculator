@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">bmicalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wightLable">Weight in (lbs)</string>
+    <string name="heightLable">Height in (feet)</string>
+    <string name="hightLable">Height in (feets)</string>
+    <string name="weightLable">Weight in (lbs)</string>
+    <string name="heightlable">Height in (feets)</string>
+    <string name="calculatebutton">Calculate</string>
+    <string name="emptyString"></string>
+    <string name="weightlable">Weight in (lbw)</string>
+    <string name="heightLabal">Height in (feets)</string>
+    <string name="calculatebuton">Calculate</string>
+    <string name="emptyText"></string>
+    <string name="emptyTex"></string>
+    <string name="weightLbl">Weight in (lbs)</string>
+    <string name="heightLbl">Height in (feets)</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="emptyTxt"></string>
+
+</resources>
